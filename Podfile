@@ -9,5 +9,4 @@ target 'Clima' do
   pod 'SwiftyJSON'
   pod 'Alamofire'
   pod 'SVProgressHUD'
-
 end

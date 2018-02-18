@@ -38,6 +38,8 @@ class WeatherViewController: UIViewController, CLLocationManagerDelegate, Change
         locationManager.desiredAccuracy = kCLLocationAccuracyHundredMeters
         locationManager.requestWhenInUseAuthorization()
         locationManager.startUpdatingLocation()
+        
+        
     }
     
     
